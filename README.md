@@ -1,6 +1,8 @@
 <h1 align="center">TypeScript</h1>
 
-<p align="center"> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) </p>
+<p align="center">
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+</p>
 
 <p align="center">
   <a href="#about">About</a> •
