@@ -8,11 +8,6 @@ This repository contains various TypeScript programs and scripts that can be use
 
 TypeScript is a statically-typed programming language that is a superset of JavaScript. It was developed by Microsoft and released in 2012. TypeScript adds optional static typing, classes, and interfaces to JavaScript, making it easier to build and maintain large-scale applications. TypeScript code is transpiled into JavaScript code that can run in any modern web browser or server-side environment that supports JavaScript. Some of the benefits of using TypeScript include improved code quality, better maintainability, and enhanced tooling support.
 
-## Prerequisites
-
-- Node.js installed
-- TypeScript installed globally
-
 ## Usage
 
 1. Make sure you have Node.js installed on your system. You can download it from the official website at https://nodejs.org.
