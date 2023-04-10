@@ -15,15 +15,33 @@ TypeScript is a statically-typed programming language that is a superset of Java
 
 ## Usage
 
-1. Clone the repository
+1. Make sure you have Node.js installed on your system. You can download it from the official website at https://nodejs.org.
+2. Open a command prompt or terminal window.
+3. Run the following command to install TypeScript globally:
+
+```
+npm install -g typescript
+```
+
+This will install the latest version of TypeScript globally on your system.
+
+4. Verify that TypeScript is installed by running the following command:
+
+```
+tsc --version
+```
+
+This should print the version number of TypeScript that you just installed.
+
+5. Clone the repository
 
 ```
 git clone https://github.com/Eggy115/TypeScript.git
 ```
 
-2. Navigate to the directory
-3. Run `npm install` to install dependencies
-4. Run `npm start` to start the program
+6. Navigate to the directory
+7. Run `npm install` to install dependencies
+8. Run `npm start` to start the program
 
 ## Contributing
 
