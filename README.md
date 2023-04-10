@@ -1,6 +1,13 @@
-# TypeScript
+<h1 align="center">TypeScript</h1>
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a> •
+</p>
 
 This repository contains various TypeScript programs and scripts that can be used for different purposes.
 
