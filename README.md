@@ -1,11 +1,14 @@
 <h1 align="center">TypeScript</h1>
 
 <p align="center">
+  <a href="#overview">Overview</a> •
   <a href="#about">About</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a> 
 </p>
+
+## Overview
 
 This repository contains various TypeScript programs and scripts that can be used for different purposes.
 
